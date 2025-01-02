@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.pfx
+*.cer
+*.log
+dist/
+build/

@@ -1,0 +1,8 @@
+Descarga ffmpeg desde su sitio oficial.
+Extrae el archivo descargado.
+Agrega la carpeta bin de ffmpeg al PATH del sistema:
+Ve a Propiedades del Sistema → Configuración avanzada del sistema → Variables de entorno.
+Busca la variable Path en Variables del sistema y edítala.
+Agrega la ruta completa a la carpeta bin de ffmpeg (por ejemplo, C:\ffmpeg\bin).
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
