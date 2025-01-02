@@ -1,7 +1,13 @@
-*.pyc
-__pycache__/
-*.pfx
-*.cer
+# Ignorar archivos temporales del sistema
 *.log
-dist/
-build/
+*.tmp
+
+# Ignorar binarios y archivos compilados
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Ignorar carpetas específicas
+node_modules/
+__pycache__/
